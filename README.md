@@ -1,6 +1,6 @@
 
                                        
-                              Crise énergétique: Le cri d'alarme des industriels Français                               
+#                              Crise énergétique: Le cri d'alarme des industriels Français                               
 Alors que les prix de l'énergie ont explosé, des secteurs d'activité hautement stratégiques affrontent une menace existentielle.
 C'est ce qui reste de l'écosystème industriel hexagonal qui est en danger.(Extrait d'une enquete du journal Les ECHOS)
 
